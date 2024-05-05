@@ -4246,11 +4246,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gunel\\Desktop\\c#\\Vallahson\\Vallahson\\Vallahson.csproj",
+      "projectUniqueName": "C:\\Users\\gunel\\Desktop\\ClothingStoreSystem\\Vallahson\\Vallahson.csproj",
       "projectName": "Vallahson",
-      "projectPath": "C:\\Users\\gunel\\Desktop\\c#\\Vallahson\\Vallahson\\Vallahson.csproj",
+      "projectPath": "C:\\Users\\gunel\\Desktop\\ClothingStoreSystem\\Vallahson\\Vallahson.csproj",
       "packagesPath": "C:\\Users\\gunel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gunel\\Desktop\\c#\\Vallahson\\Vallahson\\obj\\",
+      "outputPath": "C:\\Users\\gunel\\Desktop\\ClothingStoreSystem\\Vallahson\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gunel\\AppData\\Roaming\\NuGet\\NuGet.Config",
